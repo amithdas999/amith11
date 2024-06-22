@@ -673,7 +673,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\amith11new project\bin</stringProp>
+        <stringProp name="filename">amith11_2.jtl</stringProp>
       </ResultCollector>
       <hashTree/>
       <ProxyControl guiclass="ProxyControlGui" testclass="ProxyControl" testname="HTTP(S) Test Script Recorder">
